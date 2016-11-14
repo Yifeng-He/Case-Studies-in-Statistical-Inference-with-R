@@ -231,7 +231,7 @@ cat("\n")
 # What is the 99% confidence interval for the slope of the regression line?
 
 # define function to find confidence interval for the slope of the regression line with t-statistic
-# stadare error for the slope: SE = sqrt [ sum(y_observed_i - y_estaimate_i)^2 / (n - 2) ] / sqrt [ sum(x_observed_i - x_avg)^2 ] 
+# stadare error for the slope: SE = sqrt(sum((y_observed_i - y_estaimate_i)^2) /(n-2))/sqrt(sum((x_observed_i - x_avg)^2)) 
 findConfidenceIntervalForSlope_tScore = function(sampleSlope, slopeStd, confidenceLevel, numSamples) {
   # accumulated probability
   accumulatedProbability = 1-(1-confidenceLevel)/2.0
