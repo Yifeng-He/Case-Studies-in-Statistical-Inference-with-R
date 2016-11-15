@@ -612,13 +612,3 @@ if (pValue < significanceLevel) {
 if (pValue >= significanceLevel) {
   cat("The null hypothesis cannot be rejected.")
 }
-
-
-
-
-
-
-
-
-
-
