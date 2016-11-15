@@ -1,0 +1,52 @@
+Problem 1: Hypothesis Test for a Proportion with Two-Tailed z-Test
+P-value is 0.08011831 , level of significance is 0.05 .
+The null hypothesis cannot be rejected.
+
+Problem 2: Hypothesis Test for a Proportion with One-Tailed z-Test
+P-value is 0.04005916 , level of significance is 0.05 .
+The null hypothesis cannot be accepted.
+
+Problem 3: Hypothesis Test for Difference Between Proportions with Two-Tailed z-Test
+P-value is 0.03038665 , level of significance is 0.05 .
+The null hypothesis cannot be accepted.
+
+Problem 4: Hypothesis Test for Difference Between Proportions with One-Tailed z-Test
+P-value is 0.9848067 , level of significance is 0.01 .
+The null hypothesis cannot be rejected.
+
+Problem 5: Hypothesis Test for a Mean with Two-Tailed t-Test
+P-value is 0.08332616 , level of significance is 0.05 .
+The null hypothesis cannot be rejected.
+
+Problem 6: Hypothesis Test for a Mean with One-Tailed t-Test
+P-value is 0.1911421 , level of significance is 0.01 .
+The null hypothesis cannot be rejected.
+
+Problem 7: Hypothesis Test for Difference Between Means with Two-Tailed t-Test
+P-value is 0.05300657 , level of significance is 0.1 .
+The null hypothesis cannot be accepted.
+
+Problem 8: Hypothesis Test for Difference Between Means with One-Tailed t-Test
+P-value is 0.7483011 , level of significance is 0.05 .
+The null hypothesis cannot be rejected.
+
+Problem 9: Hypothesis Test for Difference Between Paired Means with Two-Tailed t-Test
+P-value is 0.2049795 , level of significance is 0.05 .
+The null hypothesis cannot be rejected.
+
+Problem 10: Hypothesis Test for Goodness of Fit with Chi-squared Test
+P-value is 5.591563e-05 , level of significance is 0.05 .
+The null hypothesis cannot be accepted.
+
+Problem 11: Hypothesis Test for Homogeneity with Chi-squared Test
+P-value is 6.384253e-05 , level of significance is 0.05 .
+The null hypothesis cannot be accepted.
+
+Problem 12: Hypothesis Test for Independence with Chi-squared Test
+P-value is 0.0003029775 , level of significance is 0.05 .
+The null hypothesis cannot be accepted.
+
+Problem 13: Hypothesis Test for Regression Slope with Two-Tailed t-Test
+P-value is 0.02402178 , level of significance is 0.05 .
+The null hypothesis cannot be accepted.
+
