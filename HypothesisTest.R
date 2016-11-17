@@ -332,7 +332,7 @@ if (pValue >= significanceLevel) {
 # pairs, each pair having equal IQ's. One member of each pair was randomly selected to receive special training. 
 # Then, all of the students were given an IQ test. Test results are summarized below.
 # 
-# Pair 	Training 	No training 	Difference (d) 	(d - d)^2
+# Pair 	Training 	No training 	Difference (d) 	(d - d_avg)^2
 # 1 	95 	90 	5 	16
 # 2 	89 	85 	4 	9
 # 3 	76 	73 	3 	4
@@ -345,7 +345,7 @@ if (pValue >= significanceLevel) {
 # 10 	85 	89 	-4 	25
 # 11 	90 	95 	-5 	36
 # 
-# Pair 	Training 	No training 	Difference (d) 	(d - d)^2
+# Pair 	Training 	No training 	Difference (d) 	(d - d_avg)^2
 # 12 	85 	83 	2 	1
 # 13 	87 	83 	4 	9
 # 14 	85 	83 	2 	1
@@ -358,7 +358,7 @@ if (pValue >= significanceLevel) {
 # 21 	75 	77 	-2 	9
 # 22 	80 	83 	-3 	16
 # 
-# ??(d - d)2 = 270
+# sum((d - d_avg)^2) = 270
 # d_avg = 1
 # 
 # Do these results provide evidence that the special training helped or hurt student performance? Use an 0.05 
